@@ -1,0 +1,36 @@
+[General]
+FreeFloating=true
+HistoryEnabled=true
+RetainPriorSearch=true
+history=pamac
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_applications:org.manjaro.pamac.manager.desktop
+
+[Plugins]
+CharacterRunnerEnabled=true
+DictionaryEnabled=true
+Kill RunnerEnabled=true
+PowerDevilEnabled=true
+Spell CheckerEnabled=false
+baloosearchEnabled=true
+bookmarksEnabled=true
+browsertabsEnabled=true
+calculatorEnabled=true
+desktopsessionsEnabled=true
+katesessionsEnabled=true
+konsoleprofilesEnabled=true
+krunner_appstreamEnabled=true
+kwinEnabled=true
+locationsEnabled=true
+org.kde.activitiesEnabled=true
+org.kde.datetimeEnabled=true
+org.kde.windowedwidgetsEnabled=true
+placesEnabled=true
+plasma-desktopEnabled=true
+recentdocumentsEnabled=true
+servicesEnabled=true
+shellEnabled=true
+unitconverterEnabled=true
+webshortcutsEnabled=true
+windowsEnabled=true

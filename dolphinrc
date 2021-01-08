@@ -1,0 +1,55 @@
+DVI-D-0 Height 1080=503
+DVI-D-0 Width 1920=750
+DVI-D-0 XPosition=4
+DVI-D-0 YPosition=435
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAB0fwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAAB0QAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAACNQAAAdEAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=32
+
+[General]
+Version=200
+ViewPropsTimestamp=2020,12,27,18,1,29
+
+[IconsMode]
+FontWeight=50
+PreviewSize=128
+
+[KPropertiesDialog]
+DVI-D-0 DP-5 Height 1080=430
+DVI-D-0 DP-5 Width 1920=375
+DVI-D-0 Height 1080=453
+DVI-D-0 Width 1920=510
+
+[MainWindow]
+DVI-D-0 DP-5 Height 1080=480
+DVI-D-0 DP-5 Width 1920=640
+DVI-D-0 DP-5 XPosition=128
+DVI-D-0 DP-5 YPosition=97
+DVI-D-0 Height 1080=613
+DVI-D-0 Width 1920=712
+DVI-D-0 XPosition=518
+DVI-D-0 YPosition=270
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADqAAABtvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAqAAABtgAAAE4A////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAABkgAAAbYAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[Notification Messages]
+ConfirmDelete=true
+
+[Open-with settings]
+CompletionMode=1
+History=mouse
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail
+
+[SettingsDialog]
+DVI-D-0 Height 1080=411
+DVI-D-0 Width 1920=639
